@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(255, 200, 0);
+    width: 70%;
+    display: block;
+    margin: 8px;
+}
+h2 {
+    color: red;
+    margin-top: 40px;
+    height: auto;
+    width: 50%;
+    margin-left: 570px;
+}
+h3{
+    color: red;
+    margin-top: -20px;
+    margin-left: 670px;
+    border-radius: 5px;
+}
+.style img{
+    
+        background-color: #999999;
+        background-image: url("282262139_2037076713128857_3056492945202892264_n.jpg");
+        background-position: left center;
+        background-size: contains;
+        background-repeat: round;
+        background-origin: padding-box;
+        margin-left: 510px;
+        width: 40%;
+      }
+      .style2{
+        
+            background: #999999 url("282262139_2037076713128857_3056492945202892264_n.jpg") left top contains repeat padding-box;
+          }
